@@ -11,7 +11,9 @@
     <li>Accept decimal numbers</li>
     <li>Clear button</li>
     <li>Realtime result</li>
-  </ul>
+  </ul> <br>
+  <b>Back-end: </b>Calculator/app/src/main/java/com/example/calculadoralinear/ <br>
+  <b>Front-end: </b>Calculator/app/src/main/res/layout/
   
   <li><h3>Volleyball Scoreboard :volleyball:</h3></li>
   <ul>
