@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="msg0">0</string>
+    <string name="msg1">1</string>
+    <string name="msg2">2</string>
+    <string name="msg3">3</string>
+    <string name="msg4">4</string>
+    <string name="msg5">5</string>
+    <string name="msg6">6</string>
+    <string name="msg7">7</string>
+    <string name="msg8">8</string>
+    <string name="msg9">9</string>
+    <string name="msg_ponto">.</string>
+    <string name="msg_soma">+</string>
+    <string name="msg_subtracao">-</string>
+    <string name="msg_divisao">÷</string>
+    <string name="msg_multi">x</string>
+    <string name="msg_igual">=</string>
+    <string name="msg_limpar">C</string>
+    <string name="msg_autoria">William Novak</string>
+</resources>
