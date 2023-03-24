@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Placar</string>
+    <string name="addButton">+</string>
+    <string name="subButton">-</string>
+    <string name="removeButton">-</string>
+    <string name="teamName1">Casa</string>
+    <string name="teamName2">Visitante</string>
+    <string name="msgZero">0</string>
+    <string name="msgX">X</string>
+    <string name="set1">1 Set</string>
+    <string name="set3">3 Sets</string>
+    <string name="set5">5 Sets</string>
+    <string name="setNumber">1º</string>
+    <string name="msgSets">Sets</string>
+    <string name="msgEdit">Editar</string>
+</resources>
