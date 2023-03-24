@@ -22,7 +22,9 @@
     <li>Edit mode to correct the scoreboard, adding and removing points or change the number of sets</li>
     <li>If the user changes the number of sets, the game restart</li>
     <li>Set ends when one team reach minimum of 25 points with al least 2 of difference</li>
-  </ul>
+  </ul> <br>
+  <b>Back-end: </b>Volleyball/app/src/main/java/com/example/placar/ <br>
+  <b>Front-end: </b>Volleyball/app/src/main/res/layout/
   
   <li><h3>Net Salary Calculator :money_with_wings::chart:</h3></li>
   <ul>
