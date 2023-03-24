@@ -11,15 +11,17 @@
     <li>Accept decimal numbers</li>
     <li>Clear button</li>
     <li>Realtime result</li>
-  </ul>
+  </ul> <br>
+  <b>Back-end: </b>Calculator/app/src/main/java/com/example/calculadoralinear/ <br>
+  <b>Front-end: </b>Calculator/app/src/main/res/layout/
   
   <li><h3>Volleyball Scoreboard :volleyball:</h3></li>
   <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Options of 1 set, 3 sets (win with 2) and 5 sets (win with 3)</li>
+    <li>Plus buttons to add points</li>
+    <li>Edit mode to correct the scoreboard, adding and removing points or change the number of sets</li>
+    <li>If the user changes the number of sets, the game restart</li>
+    <li>Set ends when one team reach minimum of 25 points with al least 2 of difference</li>
   </ul>
   
   <li><h3>Net Salary Calculator :money_with_wings::chart:</h3></li>
