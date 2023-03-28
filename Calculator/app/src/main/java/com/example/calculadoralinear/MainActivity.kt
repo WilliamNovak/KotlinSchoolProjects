@@ -42,12 +42,14 @@ class MainActivity : AppCompatActivity() {
             val result = tvResultado.text.toString()
             val calc = tvCalculo.text.toString()
 
-            if (calc != "" && result == "" && operacao == ""){
-                tvResultado.setText(calc + valor)
-                tvCalculo.setText(calc + valor)
-            } else {
-                tvResultado.setText(result + valor)
-                tvCalculo.setText(calc + valor)
+            if (result.length < 13) {
+                if (calc != "" && result == "" && operacao == "") {
+                    tvResultado.setText(calc + valor)
+                    tvCalculo.setText(calc + valor)
+                } else {
+                    tvResultado.setText(result + valor)
+                    tvCalculo.setText(calc + valor)
+                }
             }
 
         }
