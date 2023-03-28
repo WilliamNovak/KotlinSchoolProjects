@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SalarioLiquido</string>
+    <string name="developer">Desenvolvido por: William Novak</string>
+    <string name="msg_bruto">Salário Bruto:</string>
+    <string name="msg_deps">Número de Dependentes:</string>
+    <string name="msg_calcular">Calcular</string>
+    <string name="msg_liquido">Salário Líquido:</string>
+    <string name="msg_inss">Desconto INSS:</string>
+    <string name="msg_irrf">Desconto IRRF:</string>
+    <string name="msg_total_desc">Total de Descontos:</string>
+    <string name="msg_limpar">Limpar</string>
+
+    <string-array name="deps_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
