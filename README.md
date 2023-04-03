@@ -28,11 +28,12 @@
   
   <li><h3>Net Salary Calculator :money_with_wings::chart:</h3></li>
   <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Report your gross salary and dependents (Spinner type field)</li>
+    <li>INSS calculation</li>
+    <li>IRRF calculation</li>
+    <li>Clear button</li>
+    <li>Get the net salary and total deductions</li>
   </ul>
-  
+  <b>Back-end: </b>Volleyball/app/src/main/java/com/example/placar/ <br>
+  <b>Front-end: </b>Volleyball/app/src/main/res/layout/
 </ol>
