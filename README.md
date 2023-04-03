@@ -34,6 +34,6 @@
     <li>Clear button</li>
     <li>Get the net salary and total deductions</li>
   </ul>
-  <b>Back-end: </b>Volleyball/app/src/main/java/com/example/placar/ <br>
-  <b>Front-end: </b>Volleyball/app/src/main/res/layout/
+  <b>Back-end: </b>Salary/app/src/main/java/com/example/salarioliquido/ <br>
+  <b>Front-end: </b>Salary/app/src/main/res/layout/
 </ol>
